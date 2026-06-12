@@ -1,16 +1,26 @@
-Control: MFA Enforcement
+Framework Mapping
 
-ISO 27001:
-A.9.4.2
+ISO 27001 ↔ SOC 2:
+- Access Control ↔ Logical and Physical Access (CC6)
+- Monitoring ↔ System Operations (CC7)
+- Change Management ↔ Change Management (CC8)
 
-CIS:
-ID.5.1
+ISO 27001 ↔ DCC:
+- Access Control ↔ Identity and Access Management
+- Security Governance ↔ Cybersecurity Governance
+- Monitoring ↔ Security Defense
 
-SOC 2:
-CC6.1
+ISO 27001 ↔ CCC:
+- Access Control ↔ Identity and Access Management
+- Network Security ↔ Network Security Management
+- Logging ↔ Event Logs and Monitoring
 
-DCC:
-2-1 Identity and Access Management
+CIS ↔ SOC2:
+- MFA enforcement ↔ Logical Access Controls
+- Conditional Access ↔ Authentication and Authorization
+- Privileged Access ↔ Privileged Access Management
 
-CCC:
-2-2 Identity and Access Management
+DCC ↔ CCC:
+- Governance ↔ Governance
+- Defense ↔ Defense
+- Third-party ↔ Third-party Security
