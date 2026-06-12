@@ -1,0 +1,17 @@
+DCC Framework - Saudi NCA
+
+Domains:
+- Cybersecurity Governance
+- Cybersecurity Defense
+- Third-party and cloud security
+
+Key Areas:
+- Identity and access control
+- Data classification and protection
+- Monitoring and logging
+- Risk management
+
+Focus:
+- Data protection
+- Regulatory compliance
+- National cybersecurity alignment
