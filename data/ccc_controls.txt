@@ -1,0 +1,18 @@
+CCC - Cloud Cybersecurity Controls
+
+Domains:
+- Governance
+- Defense
+- Resilience
+- Third-party
+
+Key Controls:
+- Identity and access management
+- Encryption
+- Logging and monitoring
+- Incident management
+- Cloud isolation
+
+Applies to:
+- Cloud Service Providers (CSP)
+- Cloud Service Tenants (CST)
