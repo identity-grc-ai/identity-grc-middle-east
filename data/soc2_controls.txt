@@ -1,0 +1,26 @@
+SOC 2 Type II - Simplified Controls
+
+Trust Service Criteria:
+- Security (CC6 - Logical Access)
+- Availability
+- Processing Integrity
+- Confidentiality
+- Privacy
+
+Key Controls:
+- MFA enforcement for all users
+- Access control and least privilege
+- Logging and monitoring
+- Incident response procedures
+- Change management controls
+
+Common Gaps:
+- Missing MFA coverage
+- Excess privileged access
+- Poor logging
+- Weak change approval process
+
+Audit Focus:
+- Control design
+- Operating effectiveness
+- Evidence validation
